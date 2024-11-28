@@ -1,0 +1,27 @@
+{
+  "name": "gestor-de-proyectos",
+  "version": "1.0.0",
+  "description": "gestor de proyectos con nodejs y express",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l1nk26/gestor-de-proyectos.git"
+  },
+  "keywords": [
+    "proyectos",
+    "node",
+    "express"
+  ],
+  "author": "Fabián Tovar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/l1nk26/gestor-de-proyectos/issues"
+  },
+  "homepage": "https://github.com/l1nk26/gestor-de-proyectos#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
