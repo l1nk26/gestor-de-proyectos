@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/l1nk26/gestor-de-proyectos#readme",
   "dependencies": {
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "@eslint/js": "^9.16.0",
